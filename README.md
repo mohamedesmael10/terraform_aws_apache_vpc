@@ -92,7 +92,6 @@ terraform destroy -auto-approve
 
 ## Screenshots
 Below are some screenshots showcasing the project in action:
-![Screenshot 1](https://github.com/mohamedesmael10/terraform_aws_apache_vpc/blob/main/Shots/1.png)  
 ![Screenshot 2](https://github.com/mohamedesmael10/terraform_aws_apache_vpc/blob/main/Shots/2.png)  
 ![Screenshot 3](https://github.com/mohamedesmael10/terraform_aws_apache_vpc/blob/main/Shots/3.png)  
 ![Screenshot 4](https://github.com/mohamedesmael10/terraform_aws_apache_vpc/blob/main/Shots/4.png)  
